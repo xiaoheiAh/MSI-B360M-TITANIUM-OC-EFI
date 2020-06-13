@@ -16,7 +16,7 @@ It could not wakeup at oc version 0.5.7, but it works fine now.
 
 |              |                       |
 | ------------ | --------------------- |
-| Memory       | 科赋 boltx 16 * 2     |
+| Memory       | klevv boltx 16G * 2   |
 | MotherBoard  | B360M-MORTAR-TITANIUM |
 | CPU          | I5-9400               |
 | WIFI&BL Card | fenvi pcie            |
