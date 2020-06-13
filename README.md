@@ -6,15 +6,21 @@
 * Self-use EFI configuration will be continuously updated when upgrade my pc successfully. **This EFI ONLY WORKS FOR MY PC BUILDS！！！**
 * If you have some trouble when use it, only one solution - search **opencore-docs** because I don't know....
 
-## PC BUILDS
+## Currently Result
 
-|             |                       |
-| ----------- | --------------------- |
-| Memory      | 科赋 boltx 16 * 2     |
-| MotherBoard | B360M-MORTAR-TITANIUM |
-| CPU         | I5-9400               |
-| WIFI&BL     | fenvi pcie            |
-| SSD         | SN750 500G            |
+Basically perfect~
+
+It could not wakeup at oc version 0.5.7, but it works fine now.
+
+## PC BUILD
+
+|              |                       |
+| ------------ | --------------------- |
+| Memory       | 科赋 boltx 16 * 2     |
+| MotherBoard  | B360M-MORTAR-TITANIUM |
+| CPU          | I5-9400               |
+| WIFI&BL Card | fenvi pcie            |
+| SSD          | SN750 500G            |
 
 ## HOW TO USE
 
@@ -36,9 +42,9 @@
 
 4. Then replace your boot usb efi folder and reboot.
 
-## RECOMMENDS
+## Reference
 
-1. [OpenCore CoffeLake Configuration Guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html) 
+1. [OpenCore CoffeLake Configuration Guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html) :star::star::star:
 
 2. [generate your smbios](https://github.com/corpnewt/GenSMBIOS) 
 
